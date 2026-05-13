@@ -4,10 +4,10 @@ import { Box, Container, ImageList, ImageListItem } from '@mui/material';
 const photos = [
   { url: 'https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?w=800', caption: 'Snow runner' },
   { url: 'https://images.unsplash.com/photo-1605568427561-40dd23c2acea?w=800&q=80', caption: 'Blue eyes' },
-  { url: 'https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?w=800', caption: 'Winter coat' },
-  { url: 'https://images.pexels.com/photos/2209591/pexels-photo-2209591.jpeg?w=800', caption: 'Pack leader' },
+  { url: 'https://images.pexels.com/photos/4121035/pexels-photo-4121035.jpeg?w=800', caption: 'Winter coat' },
+  { url: 'https://images.pexels.com/photos/2196747/pexels-photo-2196747.jpeg?w=800', caption: 'Pack leader' },
   { url: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80', caption: 'Playful spirit' },
-  { url: 'https://images.pexels.com/photos/2559361/pexels-photo-2559361.jpeg?w=800', caption: 'Arctic soul' },
+  { url: 'https://images.pexels.com/photos/1317844/pexels-photo-1317844.jpeg?w=800', caption: 'Arctic soul' },
 ];
 
 export default function Gallery() {
