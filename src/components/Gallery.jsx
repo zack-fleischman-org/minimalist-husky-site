@@ -2,12 +2,12 @@ import React from 'react';
 import { Box, Container, ImageList, ImageListItem } from '@mui/material';
 
 const photos = [
-  { url: 'https://images.unsplash.com/photo-1596492784531-6e4531bf9505?w=800&q=80', caption: 'Snow runner' },
+  { url: 'https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?w=800', caption: 'Snow runner' },
   { url: 'https://images.unsplash.com/photo-1605568427561-40dd23c2acea?w=800&q=80', caption: 'Blue eyes' },
-  { url: 'https://images.unsplash.com/photo-1623387641168-d9803f690ea4?w=800&q=80', caption: 'Winter coat' },
-  { url: 'https://images.unsplash.com/photo-1547407139-48d499943407?w=800&q=80', caption: 'Pack leader' },
+  { url: 'https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?w=800', caption: 'Winter coat' },
+  { url: 'https://images.pexels.com/photos/2209591/pexels-photo-2209591.jpeg?w=800', caption: 'Pack leader' },
   { url: 'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80', caption: 'Playful spirit' },
-  { url: 'https://images.unsplash.com/photo-1602541779959-1f6405ed5637?w=800&q=80', caption: 'Arctic soul' },
+  { url: 'https://images.pexels.com/photos/2559361/pexels-photo-2559361.jpeg?w=800', caption: 'Arctic soul' },
 ];
 
 export default function Gallery() {
